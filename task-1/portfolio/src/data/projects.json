@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Transaction App",
+      "imageSrc": "projects/transaction.png",
+      "description": "It allows users to sign up, receive an account initialized with a random amount of money, filter users, and send money to other users. The app also features JWT-based authentication, user profiles with dynamic icons and names, and basic account management",
+      "skills": ["React", "Express", "Node", "MongoDB", "Postman"],
+      "demo": "https://github.com/chetan123340/simple-paytm",
+      "source": "https://github.com/chetan123340/simple-paytm"
+    },
+    {
+      "title": "Notes App",
+      "imageSrc": "projects/notes.png",
+      "description": "This is a full-featured blog application. It allows users to create, read, update, and delete blog posts. The implemented with routers and controllers for improved organization and maintainability, handles data persistence and business logic.",
+      "skills": ["React", "Express", "Node", "MongoDB", "Postman"],
+      "demo": "https://github.com/chetan123340/notes_react",
+      "source": "https://github.com/chetan123340/notes_react"
+    },
+    {
+      "title": "App Vault",
+      "imageSrc": "projects/vault.png",
+      "description": "This project provides a secure application vault specifically designed to store and retrieve book details effectively. It utilizes tokens for authorization and offers a flexible API for integration.",
+      "skills": ["Python", "Flask", "Bootstrap", "SQLite"],
+      "demo": "https://github.com/chetan123340/Vault",
+      "source": "https://github.com/chetan123340/Vault"
+    }
+  ]
+  

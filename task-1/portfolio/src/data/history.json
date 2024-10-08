@@ -1,0 +1,30 @@
+[
+    {
+      "role": "Research Intern",
+      "organisation": "Samsung Prism",
+      "startDate": "Nov, 2023",
+      "endDate": "Oct, 2024",
+      "experiences": ["Worked on adversarial attacks and prompt injection for BERT and LLaMA3.", "Fine-tuned LLaMA3 to resist specific adversarial prompts."],
+      "imageSrc": "history/samsung.png"
+    },
+    {
+      "role": "Programing Lead",
+      "organisation": "Microsoft Student Club",
+      "startDate": "Dec, 2023",
+      "endDate": "Aug, 2024",
+      "experiences": ["Conducted workshops on Git, GitHub, and Azure NLP."],
+      "imageSrc": "history/microsoft-club.jpg"
+    },
+    {
+      "role": "Trainee",
+      "organisation": "Samsung Innovation Campus",
+      "startDate": "Feb, 2023",
+      "endDate": "Jul, 2023",
+      "experiences": [
+        "Gained skills in Python, Pandas, and Matplotlib.",
+        "Analyzed stock market data using Yahoo Finance."
+      ],
+      "imageSrc": "history/sic.png"
+    }
+  ]
+  
