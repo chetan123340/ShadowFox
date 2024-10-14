@@ -100,6 +100,29 @@
   margin-left: 17px;
 }
 
+.links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  list-style: none;
+  gap: 26px;
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+
+.link a {
+  color: var(--color-text);
+  text-decoration: none;
+  font-size: 30px;
+  font-weight: 400;
+  letter-spacing: 1.5px;
+}
+
+/* Media Query for Small Screens */
 @media screen and (max-width: 830px) {
   .content {
     flex-direction: column;
@@ -116,5 +139,28 @@
   .history {
     width: 100%;
     gap: 9px;
+  }
+
+  /* Adjustments for Contact section responsiveness */
+  .container {
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+  }
+
+  .text h2 {
+    font-size: 24px;
+  }
+
+  .text p {
+    font-size: 18px;
+  }
+
+  .link {
+    gap: 15px; /* Reduce the gap between icon and link */
+  }
+
+  .link a {
+    font-size: 18px; /* Reduce font size for smaller screens */
   }
 }
